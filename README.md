@@ -1,2 +1,2 @@
 # my-portfolio
-a short information?portfolio about me
+a short information/portfolio about me
